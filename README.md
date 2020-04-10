@@ -7,7 +7,7 @@ You can either:
   Just realized this is probably not a good idea, because you can see other people's solutions...
 Try to do a private fork then: https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private
 
-* or, download a zip file containing everything: https://github.com/kunikag2/IE-498-RL-HWdx/archive/master.zip (**recommended**)
+* or, download a zip file containing everything: https://github.com/kunikag2/IE-498-RL-HW/archive/master.zip (**recommended**)
 * or, directly clone the repo to local:
 ```bash
 git clone https://github.com/kunikag2/IE-498-RL-HW.git
