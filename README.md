@@ -1,4 +1,4 @@
-## IE 534 Assignment: Reinforcement Learning
+## IE 498 Assignment: Reinforcement Learning
 
 #### Getting Started
 You can either:
